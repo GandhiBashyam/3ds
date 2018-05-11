@@ -1,0 +1,20 @@
+Git Plumbing Commands
+    cat-file
+    check-ignore
+    checkout-index
+    commit-tree
+    count-objects
+    diff-index
+    for-each-ref
+    hash-object
+    ls-files
+    merge-base
+    read-tree
+    rev-list
+    rev-parse
+    show-ref
+    symbolic-ref
+    update-index
+    update-ref
+    verify-pack
+    write-tree
